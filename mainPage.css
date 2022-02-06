@@ -1,0 +1,46 @@
+body {
+  font: 15px Helvetica, sans-serif;
+  line-height: 1.5;
+  background: #fdac53;
+  color: white;
+  text-align: center;
+}
+h1{ 
+position: relative;
+}
+.ribbon {
+ width: 100%;
+ position: relative;
+ border: groove;
+ color: white;
+ text-align: center; 
+}
+#img-div{
+  width: 100%;
+}
+#image{
+width: 100%;
+height: auto;
+max-width: 500px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+img{
+  border: 20px solid #EFE1CE;
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  align-items: center;
+}
+ul{
+  background: #fdac53;
+  list-style-position: outside;
+  text-align: center;
+  border-style: groove;
+  padding: 25px 100px 25px 100px;
+  margin: 0px 200px 0px 200px;
+}
+li{
+  padding-top: 10px;
+}
